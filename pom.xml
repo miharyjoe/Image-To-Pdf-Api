@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.imagetopdf</groupId>
-    <artifactId>ImageToPdf</artifactId>
+    <artifactId>image-to-pdf</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Image To Pdf</name>
     <description>Image To Pdf</description>
