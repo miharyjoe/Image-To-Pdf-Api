@@ -1,4 +1,10 @@
-## How to post images in the "{{url}}/convert": 
+# Image To Pdf Api
+
+An API to convert images to pdf in spring boot
+
+## How to use the API
+
+### The endpoint URL :  "{{url}}/convert"
 
 - Open Postman and create a new request.
 - Set the HTTP method to POST.
